@@ -64,7 +64,7 @@ const defaultItems = [
 localStorage.setItem("items",JSON.stringify(defaultItems));
 
 let items = JSON.parse(localStorage.getItem("items"));
-let wa = localStorage.getItem("wa") || "917349908001";
+let wa = localStorage.getItem("wa") || "919630785110";
 let selectedItem="";
 
 function renderUser(){
